@@ -18,6 +18,8 @@ Get the latest build here: [Releases](https://github.com/derveror/Evolution_X_Xi
 
 | iamehsangh                         | [Link](https://github.com/iamehsangh) |
 
+| mrtozkn                         | [Link](https://github.com/mrtozkn) |
+
 # Reporting a bug/issue
 I do not accept bug feedback if you have modified my ROM. I do not support following changes:
 
